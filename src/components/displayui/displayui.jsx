@@ -1,9 +1,9 @@
 import React from 'react'
 
-const displayui = () => {
+const Displayui = () => {
   return (
-    <div>displayui</div>
+    <div>Displayui</div>
   )
 }
 
-export default displayui
+export default Displayui
